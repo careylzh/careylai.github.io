@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Carey **Lai** Zheng Hui is a Singaporean software engineer turned Masters candidate at the Singapore University of Technology and Design. 
+Carey Lai (Zheng Hui) is a Singaporean software engineer turned Masters candidate at the Singapore University of Technology and Design. 
 
 His professional experience included 5.5 years of teaching software engineering to career switchers through the SkillsFuture Singapore programme, and 2 years of software engineering at various startups-turned-MNCs based in Singapore. 
 
