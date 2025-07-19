@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Raspberry Pi Essential Training"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Tertiary course"
+permalink: [Link to Tertiary Courses's Website](https://www.tertiarycourses.com.sg/wsq-iot-raspberry-pi-course.html?gad_source=1&gad_campaignid=22230651553&gbraid=0AAAAADmBGq8QMbGvBGZAqMBgsquU1WeC-&gclid=CjwKCAjw4efDBhATEiwAaDBpbmBWsUhLdnQ1sU-4fRrSA5Ird0FcwygsdTXqQx4Vjda0Zhz-fQASHRoCKTwQAvD_BwE)
+venue: "Tertiary Courses, Singapore"
+date: 2019-01-01
+location: "Singapore"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Adjunct lecturer 
 
 Heading 1
 ======
